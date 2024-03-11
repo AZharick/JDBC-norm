@@ -1,0 +1,23 @@
+insert into customers (id, name, surname, age, phone_number) values (1, 'Alexey', 'Pretley', 50, '127-873-8695');
+insert into customers (id, name, surname, age, phone_number) values (2, 'Tiphanie', 'Polak', 31, '568-420-6069');
+insert into customers (id, name, surname, age, phone_number) values (3, 'Alexey', 'Seeney', 38, '821-191-8380');
+insert into customers (id, name, surname, age, phone_number) values (4, 'Elise', 'Connock', 25, '260-162-1867');
+insert into customers (id, name, surname, age, phone_number) values (5, 'Roanna', 'Wilgar', 35, '736-102-6083');
+insert into customers (id, name, surname, age, phone_number) values (6, 'Alexey', 'Byer', 21, '476-835-0704');
+insert into customers (id, name, surname, age, phone_number) values (7, 'Bruce', 'Richardin', 32, '483-100-3681');
+insert into customers (id, name, surname, age, phone_number) values (8, 'Jewelle', 'Magson', 47, '249-149-7819');
+insert into customers (id, name, surname, age, phone_number) values (9, 'Alexey', 'Towl', 20, '837-907-4817');
+
+insert into orders (id, date, customer_id, product_name, amount) values (1, '17/12/2022', 3, 'Phone', 4);
+insert into orders (id, date, customer_id, product_name, amount) values (2, '30/09/2023', 7, 'TV', 2);
+insert into orders (id, date, customer_id, product_name, amount) values (4, '07/09/2023', 2, 'Coffee', 4);
+insert into orders (id, date, customer_id, product_name, amount) values (5, '05/05/2023', 7, 'Tablet', 2);
+insert into orders (id, date, customer_id, product_name, amount) values (6, '08/07/2023', 8, 'Refrigerator', 3);
+insert into orders (id, date, customer_id, product_name, amount) values (7, '21/11/2023', 9, 'Phone', 5);
+insert into orders (id, date, customer_id, product_name, amount) values (8, '02/03/2023', 9, 'TV', 4);
+insert into orders (id, date, customer_id, product_name, amount) values (9, '17/02/2024', 3, 'Keyboard', 2);
+insert into orders (id, date, customer_id, product_name, amount) values (10, '19/01/2023', 6, 'Smartphone', 5);
+insert into orders (id, date, customer_id, product_name, amount) values (11, '05/10/2023', 1, 'PC_Mouse', 4);
+insert into orders (id, date, customer_id, product_name, amount) values (12, '03/09/2022', 6, 'PC_Mouse', 2);
+insert into orders (id, date, customer_id, product_name, amount) values (13, '22/11/2022', 8, 'TV', 5);
+insert into orders (id, date, customer_id, product_name, amount) values (20, '30/12/2022', 1, 'TV', 2);
